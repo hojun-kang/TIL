@@ -1,0 +1,6 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+  - 업무에 필요한 프로그램을 만들때 잘 사용할 수 있도록 배워둠
+  - 유용하게 버전관리하고 협업을 할 수 있도록 능력 성장에 주력
+
+2. 1주차 주요 개념 키워드 적어보기
+git, github, sourcetree, 버전관리, git초기화, add(staging), commit, branch, push, pull, local repo, remote repo, tracking, clone, 
