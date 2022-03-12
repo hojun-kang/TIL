@@ -1,0 +1,16 @@
+2주차 TIL
+
+■ Git 협업 - issue, branch, merge
+
+1. issue
+  - 문제 할당, 사람, 기능 등의 설정
+2. branch
+  - main의 공간외 분리된 추가 공간
+  - branch에서의 수정사항은 다른 곳으로 영향을 끼치지 않는다
+  - branch를 바꾸는 것을 checkout
+3. merge
+  - branch의 수정사항을 합치는(병합) 기능(이때 commit들도 합쳐진다!)
+  - 타 branch에서 동일 코드를 수정 시 complict 발생
+  - 수정으로 개선할 수 있다.
+
+4. 원격 repo 또한 branch별로 tracking 한다.
